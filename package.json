@@ -1,0 +1,30 @@
+{
+  "name": "mern-ecommerce-from-yt",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=A_-fn_ij59c",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Narc2022/mern-ecommerce-from-yt.git"
+  },
+  "keywords": [],
+  "author": "Narc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Narc2022/mern-ecommerce-from-yt/issues"
+  },
+  "homepage": "https://github.com/Narc2022/mern-ecommerce-from-yt#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
